@@ -1,0 +1,57 @@
+﻿  C:\SFML-2.5.0\bin\openal32.dll
+  C:\SFML-2.5.0\bin\sfml-audio-2.dll
+  C:\SFML-2.5.0\bin\sfml-audio-d-2.dll
+  C:\SFML-2.5.0\bin\sfml-graphics-2.dll
+  C:\SFML-2.5.0\bin\sfml-graphics-d-2.dll
+  C:\SFML-2.5.0\bin\sfml-network-2.dll
+  C:\SFML-2.5.0\bin\sfml-network-d-2.dll
+  C:\SFML-2.5.0\bin\sfml-system-2.dll
+  C:\SFML-2.5.0\bin\sfml-system-d-2.dll
+  C:\SFML-2.5.0\bin\sfml-window-2.dll
+  C:\SFML-2.5.0\bin\sfml-window-d-2.dll
+  11 File(s) copied
+  Game.cpp
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(71): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(94): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(95): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(96): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(97): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(98): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(99): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(108): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(109): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(110): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(111): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(112): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(113): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(114): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(115): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(124): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(125): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(126): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(127): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(128): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(129): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(130): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(131): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(140): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(141): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(143): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(144): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(145): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(146): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(157): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(158): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(159): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(168): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(169): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(170): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(171): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(180): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(181): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(182): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(183): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(184): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(185): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\muddygames-gameplay-programming-i-lab-05-cc544c1acdcd\sfmlopengl\game.cpp(187): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  SFMLOpenGL.vcxproj -> C:\Users\c00226958\Desktop\MuddyGames-gameplay-programming-i-lab-05-cc544c1acdcd\Debug\SFMLOpenGL.exe
