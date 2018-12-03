@@ -42,5 +42,6 @@ c:\users\c00226958\desktop\primatives-and-display-lists-master\oisinmoore primat
 c:\users\c00226958\desktop\primatives-and-display-lists-master\oisinmoore primatives and display lists\sfmlopengl\game.cpp(189): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
 c:\users\c00226958\desktop\primatives-and-display-lists-master\oisinmoore primatives and display lists\sfmlopengl\game.cpp(190): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
 c:\users\c00226958\desktop\primatives-and-display-lists-master\oisinmoore primatives and display lists\sfmlopengl\game.cpp(192): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\c00226958\desktop\primatives-and-display-lists-master\oisinmoore primatives and display lists\sfmlopengl\game.cpp(327): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
 c:\users\c00226958\desktop\primatives-and-display-lists-master\oisinmoore primatives and display lists\sfmlopengl\game.cpp(331): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
   SFMLOpenGL.vcxproj -> C:\Users\c00226958\Desktop\Primatives-and-Display-Lists-master\OisinMoore Primatives and Display lists\Debug\SFMLOpenGL.exe

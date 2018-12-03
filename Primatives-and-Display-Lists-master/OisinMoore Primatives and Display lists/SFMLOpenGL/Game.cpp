@@ -1,6 +1,6 @@
 #include "Game.h"
 
-// // Uncomment for Part 2
+// // Bool i use to change the shape
 // // ********************
 bool flip = false;
 int current = 1;
@@ -324,7 +324,7 @@ void Game::update()
 	 // Rotation
 	if (sf::Keyboard::isKeyPressed(sf::Keyboard::Up))
 	{
-		glRotatef(1, 0.0f, 0.0f, 1.0f);
+		glRotatef(0.1, 0.0f, 0.0f, 1.0f);
 	}
 	if (sf::Keyboard::isKeyPressed(sf::Keyboard::Down))
 	{
@@ -335,20 +335,20 @@ void Game::update()
 	// Translation
 	if (sf::Keyboard::isKeyPressed(sf::Keyboard::A))
 	{
-		glTranslatef(-0.01f, 0.0f, 0.0f);
+		glTranslatef(-0.005f, 0.0f, 0.0f);
 	}
 	if (sf::Keyboard::isKeyPressed(sf::Keyboard::D))
 	{
-		glTranslatef(0.01f, 0.0f, 0.0f);
+		glTranslatef(0.005f, 0.0f, 0.0f);
 	}
 
 	if (sf::Keyboard::isKeyPressed(sf::Keyboard::W))
 	{
-		glTranslatef(0.0f, 0.01f, 0.0f);
+		glTranslatef(0.0f, 0.005f, 0.0f);
 	}
 	if (sf::Keyboard::isKeyPressed(sf::Keyboard::S))
 	{
-		glTranslatef(0.0f, -0.01f, 0.0f);
+		glTranslatef(0.0f, -0.005f, 0.0f);
 	}
 
 	// Scale
@@ -366,7 +366,7 @@ void Game::update()
 void Game::draw()
 {
 
-	 // Uncomment for Part 2
+	 // Draws current shape
 	 // ********************
 	//cout << "Draw up" << endl;
 
